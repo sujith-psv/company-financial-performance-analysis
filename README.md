@@ -21,4 +21,4 @@ Operational efficiency is evaluated using operating margins, while valuation is 
 - Financially weak companies are consistently penalized by the market
 
 ## Dashboard Preview
-![image_alt](https://github.com/sujith-psv/company-financial-performance-analysis/blob/main/dashboard_preview1.png?raw=true)
+![Dashboard Preview](https://raw.githubusercontent.com/sujith-psv/company-financial-performance-analysis/main/images/dashboard_preview1.png)
